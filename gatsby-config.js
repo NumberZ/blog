@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/',
+  pathPrefix: ``,
   siteMetadata: {
     title: `Ryan's blog`,
     author: {
@@ -10,7 +10,7 @@ module.exports = {
     siteUrl: `https://lilinhao.cn`,
     social: {
       Wechat: `lilinhao___`,
-      github:'https://github.com/NumberZ'
+      github: "https://github.com/NumberZ",
     },
   },
   plugins: [
